@@ -1,6 +1,6 @@
-import NavBar from "../molecules/Navbar";
+import NavBar from "../molecules/Navigation";
 import { Container, Stack } from "@chakra-ui/react";
-import PageHeader from "../atoms/PageHeadline";
+import PageHeadline from "../atoms/PageHeadline";
 
 export default function AppLayout(props: {
   children: any;
@@ -26,7 +26,7 @@ export default function AppLayout(props: {
       <main className={mainStyles}>
         <Container maxW={maxW} w="100%" centerContent>
           <Stack spacing={3}>
-            <PageHeader title={_title} className={titleStyles} />
+            <PageHeadline title={_title} className={titleStyles} />
             {children}
           </Stack>
         </Container>

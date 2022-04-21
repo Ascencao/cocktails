@@ -3,9 +3,9 @@ import type { NextPage } from "next";
 import Head from "next/head";
 import { Divider } from "@chakra-ui/react";
 import styles from "../styles/Home.module.css";
-import ResultsGrid from "../components/organisms/ResultsGrid";
+import CardsGrid from "../components/organisms/CardsGrid";
 import { useRouter } from "next/router";
-import Searcher from "../components/organisms/Searcher";
+import Search from "../components/organisms/Search";
 import AppLayout from "../components/templates/appLayout";
 
 const Home: NextPage = (props) => {
@@ -53,13 +53,13 @@ const Home: NextPage = (props) => {
         _maxW={{ base: "sm", sm: "s", md: "xl", lg: "l", xl: "6xl" }}
         _title="Cocktails"
       >
-        <Searcher
+        <Search
           label="Find your favorite cocktail!"
           value={cocktailName}
           events={{ handleInputChange, handleOnKeyPress, handleClick }}
         />
         <Divider />
-        <ResultsGrid results={drinks || []}/>
+        <CardsGrid results={drinks || []}/>
       </AppLayout>
     </>
   );

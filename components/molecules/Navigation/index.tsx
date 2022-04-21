@@ -1,4 +1,4 @@
-import Logo from "../../atoms/Logo";
+import LogoImage from "../../atoms/LogoImage";
 import { Flex, Grid, GridItem, Image, Text } from "@chakra-ui/react";
 
 const NavBar = () => {
@@ -13,7 +13,7 @@ const NavBar = () => {
         alignItems={{ base: "center" }}
       >
         <GridItem as="li" colSpan={1}>
-          <Logo
+          <LogoImage
             imageSource="/apple-touch-icon.ico"
             imageAlt="Logo Awesome Cocktails"
           />
