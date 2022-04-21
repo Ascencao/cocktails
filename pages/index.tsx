@@ -72,7 +72,7 @@ export const getServerSideProps = async (context: any) => {
     query: { search: cocktailName = "" },
   } = context;
   const resp = await fetch(
-    `http://localhost:3000/api/cocktails/getByName/?search=${
+    `${process.env.BASE_URL}/api/cocktails/getByName/?search=${
       cocktailName || ""
     }`
   ).then((resp) => resp.json());
