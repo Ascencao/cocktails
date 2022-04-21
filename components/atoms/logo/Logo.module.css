@@ -1,0 +1,8 @@
+.logo {
+  margin: auto;
+  width: 85px;
+}
+
+.logo:hover {
+  cursor: pointer;
+}
