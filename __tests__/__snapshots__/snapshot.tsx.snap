@@ -1,0 +1,1817 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders homepage unchanged 1`] = `
+<div>
+  <header>
+    <nav
+      class="css-1co6ecp"
+    >
+      <ul
+        class="css-1x54not"
+      >
+        <li
+          class="css-zd4of5"
+        >
+          <img
+            alt="Logo Awesome Cocktails"
+            class="logo css-0"
+            href="/"
+            src="/apple-touch-icon.ico"
+          />
+        </li>
+        <li
+          class="css-rklm6r"
+        >
+          <p
+            class="chakra-text css-oipp43"
+          >
+            Awesome Cocktails
+          </p>
+        </li>
+      </ul>
+    </nav>
+  </header>
+  <main
+    class="main"
+  >
+    <div
+      class="chakra-container css-1etkqly"
+    >
+      <div
+        class="chakra-stack css-15duo8n"
+      >
+        <h1
+          class="chakra-heading title css-0"
+        >
+          Cocktails
+        </h1>
+        <div
+          class="css-gmuwbf"
+        >
+          <p
+            class="chakra-text css-dbfboq"
+          >
+            Find your favorite cocktail!
+          </p>
+        </div>
+        <div
+          class="chakra-input__group css-4302v8"
+        >
+          <input
+            class="chakra-input css-t4v6t0"
+            id="search"
+            placeholder="Search"
+          />
+          <div
+            class="chakra-input__right-addon css-1xzhmwu"
+          >
+            <button
+              class="chakra-button css-si8lrk"
+              type="button"
+              value="blue"
+            >
+              <svg
+                class="chakra-icon css-1fdnb51"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M23.414,20.591l-4.645-4.645a10.256,10.256,0,1,0-2.828,2.829l4.645,4.644a2.025,2.025,0,0,0,2.828,0A2,2,0,0,0,23.414,20.591ZM10.25,3.005A7.25,7.25,0,1,1,3,10.255,7.258,7.258,0,0,1,10.25,3.005Z"
+                  fill="currentColor"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+        <hr
+          aria-orientation="horizontal"
+          class="chakra-divider css-1upb9tn"
+        />
+        <p
+          class="chakra-text css-504jus"
+        >
+          25 Results
+        </p>
+        <div
+          class="css-1uyd424"
+        >
+          <article
+            class="chakra-linkbox css-hng3kb"
+            href="/cocktails/17222"
+          >
+            <div
+              class="css-1ggrfbi"
+            >
+              <img
+                alt="A1"
+                class="chakra-image css-8atqhb"
+                src="https://www.thecocktaildb.com/images/media/drink/2x8thr1504816928.jpg/preview"
+              />
+              <div
+                class="css-1vae7t2"
+              >
+                <h4
+                  class="css-1u4mx17"
+                >
+                  A1
+                </h4>
+                <div
+                  class="css-uj75d4"
+                >
+                  Drink in 
+                  Cocktail glass
+                </div>
+                <div
+                  class="css-uj75d4"
+                >
+                  Alcoholic:
+                  <svg
+                    class="chakra-icon css-onkibi"
+                    focusable="false"
+                    viewBox="0 0 14 14"
+                  >
+                    <g
+                      fill="currentColor"
+                    >
+                      <polygon
+                        points="5.5 11.9993304 14 3.49933039 12.5 2 5.5 8.99933039 1.5 4.9968652 0 6.49933039"
+                      />
+                    </g>
+                  </svg>
+                </div>
+                <div
+                  class="css-l33w8x"
+                >
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Gin
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Grand Marnier
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Lemon Juice
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Grenadine
+                  </span>
+                </div>
+              </div>
+            </div>
+          </article>
+          <article
+            class="chakra-linkbox css-hng3kb"
+            href="/cocktails/13501"
+          >
+            <div
+              class="css-1ggrfbi"
+            >
+              <img
+                alt="ABC"
+                class="chakra-image css-8atqhb"
+                src="https://www.thecocktaildb.com/images/media/drink/tqpvqp1472668328.jpg/preview"
+              />
+              <div
+                class="css-1vae7t2"
+              >
+                <h4
+                  class="css-1u4mx17"
+                >
+                  ABC
+                </h4>
+                <div
+                  class="css-uj75d4"
+                >
+                  Drink in 
+                  Shot glass
+                </div>
+                <div
+                  class="css-uj75d4"
+                >
+                  Alcoholic:
+                  <svg
+                    class="chakra-icon css-onkibi"
+                    focusable="false"
+                    viewBox="0 0 14 14"
+                  >
+                    <g
+                      fill="currentColor"
+                    >
+                      <polygon
+                        points="5.5 11.9993304 14 3.49933039 12.5 2 5.5 8.99933039 1.5 4.9968652 0 6.49933039"
+                      />
+                    </g>
+                  </svg>
+                </div>
+                <div
+                  class="css-l33w8x"
+                >
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Amaretto
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Baileys irish cream
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Cognac
+                  </span>
+                </div>
+              </div>
+            </div>
+          </article>
+          <article
+            class="chakra-linkbox css-hng3kb"
+            href="/cocktails/17225"
+          >
+            <div
+              class="css-1ggrfbi"
+            >
+              <img
+                alt="Ace"
+                class="chakra-image css-8atqhb"
+                src="https://www.thecocktaildb.com/images/media/drink/l3cd7f1504818306.jpg/preview"
+              />
+              <div
+                class="css-1vae7t2"
+              >
+                <h4
+                  class="css-1u4mx17"
+                >
+                  Ace
+                </h4>
+                <div
+                  class="css-uj75d4"
+                >
+                  Drink in 
+                  Martini Glass
+                </div>
+                <div
+                  class="css-uj75d4"
+                >
+                  Alcoholic:
+                  <svg
+                    class="chakra-icon css-onkibi"
+                    focusable="false"
+                    viewBox="0 0 14 14"
+                  >
+                    <g
+                      fill="currentColor"
+                    >
+                      <polygon
+                        points="5.5 11.9993304 14 3.49933039 12.5 2 5.5 8.99933039 1.5 4.9968652 0 6.49933039"
+                      />
+                    </g>
+                  </svg>
+                </div>
+                <div
+                  class="css-l33w8x"
+                >
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Gin
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Grenadine
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Heavy cream
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Milk
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Egg White
+                  </span>
+                </div>
+              </div>
+            </div>
+          </article>
+          <article
+            class="chakra-linkbox css-hng3kb"
+            href="/cocktails/17837"
+          >
+            <div
+              class="css-1ggrfbi"
+            >
+              <img
+                alt="Adam"
+                class="chakra-image css-8atqhb"
+                src="https://www.thecocktaildb.com/images/media/drink/v0at4i1582478473.jpg/preview"
+              />
+              <div
+                class="css-1vae7t2"
+              >
+                <h4
+                  class="css-1u4mx17"
+                >
+                  Adam
+                </h4>
+                <div
+                  class="css-uj75d4"
+                >
+                  Drink in 
+                  Cocktail glass
+                </div>
+                <div
+                  class="css-uj75d4"
+                >
+                  Alcoholic:
+                  <svg
+                    class="chakra-icon css-onkibi"
+                    focusable="false"
+                    viewBox="0 0 14 14"
+                  >
+                    <g
+                      fill="currentColor"
+                    >
+                      <polygon
+                        points="5.5 11.9993304 14 3.49933039 12.5 2 5.5 8.99933039 1.5 4.9968652 0 6.49933039"
+                      />
+                    </g>
+                  </svg>
+                </div>
+                <div
+                  class="css-l33w8x"
+                >
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Dark rum
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Lemon juice
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Grenadine
+                  </span>
+                </div>
+              </div>
+            </div>
+          </article>
+          <article
+            class="chakra-linkbox css-hng3kb"
+            href="/cocktails/13938"
+          >
+            <div
+              class="css-1ggrfbi"
+            >
+              <img
+                alt="AT&T"
+                class="chakra-image css-8atqhb"
+                src="https://www.thecocktaildb.com/images/media/drink/rhhwmp1493067619.jpg/preview"
+              />
+              <div
+                class="css-1vae7t2"
+              >
+                <h4
+                  class="css-1u4mx17"
+                >
+                  AT&T
+                </h4>
+                <div
+                  class="css-uj75d4"
+                >
+                  Drink in 
+                  Highball Glass
+                </div>
+                <div
+                  class="css-uj75d4"
+                >
+                  Alcoholic:
+                  <svg
+                    class="chakra-icon css-onkibi"
+                    focusable="false"
+                    viewBox="0 0 14 14"
+                  >
+                    <g
+                      fill="currentColor"
+                    >
+                      <polygon
+                        points="5.5 11.9993304 14 3.49933039 12.5 2 5.5 8.99933039 1.5 4.9968652 0 6.49933039"
+                      />
+                    </g>
+                  </svg>
+                </div>
+                <div
+                  class="css-l33w8x"
+                >
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Absolut Vodka
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Gin
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Tonic water
+                  </span>
+                </div>
+              </div>
+            </div>
+          </article>
+          <article
+            class="chakra-linkbox css-hng3kb"
+            href="/cocktails/14610"
+          >
+            <div
+              class="css-1ggrfbi"
+            >
+              <img
+                alt="ACID"
+                class="chakra-image css-8atqhb"
+                src="https://www.thecocktaildb.com/images/media/drink/xuxpxt1479209317.jpg/preview"
+              />
+              <div
+                class="css-1vae7t2"
+              >
+                <h4
+                  class="css-1u4mx17"
+                >
+                  ACID
+                </h4>
+                <div
+                  class="css-uj75d4"
+                >
+                  Drink in 
+                  Shot glass
+                </div>
+                <div
+                  class="css-uj75d4"
+                >
+                  Alcoholic:
+                  <svg
+                    class="chakra-icon css-onkibi"
+                    focusable="false"
+                    viewBox="0 0 14 14"
+                  >
+                    <g
+                      fill="currentColor"
+                    >
+                      <polygon
+                        points="5.5 11.9993304 14 3.49933039 12.5 2 5.5 8.99933039 1.5 4.9968652 0 6.49933039"
+                      />
+                    </g>
+                  </svg>
+                </div>
+                <div
+                  class="css-l33w8x"
+                >
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    151 proof rum
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Wild Turkey
+                  </span>
+                </div>
+              </div>
+            </div>
+          </article>
+          <article
+            class="chakra-linkbox css-hng3kb"
+            href="/cocktails/17833"
+          >
+            <div
+              class="css-1ggrfbi"
+            >
+              <img
+                alt="A. J."
+                class="chakra-image css-8atqhb"
+                src="https://www.thecocktaildb.com/images/media/drink/l74qo91582480316.jpg/preview"
+              />
+              <div
+                class="css-1vae7t2"
+              >
+                <h4
+                  class="css-1u4mx17"
+                >
+                  A. J.
+                </h4>
+                <div
+                  class="css-uj75d4"
+                >
+                  Drink in 
+                  Cocktail glass
+                </div>
+                <div
+                  class="css-uj75d4"
+                >
+                  Alcoholic:
+                  <svg
+                    class="chakra-icon css-onkibi"
+                    focusable="false"
+                    viewBox="0 0 14 14"
+                  >
+                    <g
+                      fill="currentColor"
+                    >
+                      <polygon
+                        points="5.5 11.9993304 14 3.49933039 12.5 2 5.5 8.99933039 1.5 4.9968652 0 6.49933039"
+                      />
+                    </g>
+                  </svg>
+                </div>
+                <div
+                  class="css-l33w8x"
+                >
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Applejack
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Grapefruit juice
+                  </span>
+                </div>
+              </div>
+            </div>
+          </article>
+          <article
+            class="chakra-linkbox css-hng3kb"
+            href="/cocktails/17839"
+          >
+            <div
+              class="css-1ggrfbi"
+            >
+              <img
+                alt="Affair"
+                class="chakra-image css-8atqhb"
+                src="https://www.thecocktaildb.com/images/media/drink/h5za6y1582477994.jpg/preview"
+              />
+              <div
+                class="css-1vae7t2"
+              >
+                <h4
+                  class="css-1u4mx17"
+                >
+                  Affair
+                </h4>
+                <div
+                  class="css-uj75d4"
+                >
+                  Drink in 
+                  Highball glass
+                </div>
+                <div
+                  class="css-uj75d4"
+                >
+                  Alcoholic:
+                  <svg
+                    class="chakra-icon css-onkibi"
+                    focusable="false"
+                    viewBox="0 0 14 14"
+                  >
+                    <g
+                      fill="currentColor"
+                    >
+                      <polygon
+                        points="5.5 11.9993304 14 3.49933039 12.5 2 5.5 8.99933039 1.5 4.9968652 0 6.49933039"
+                      />
+                    </g>
+                  </svg>
+                </div>
+                <div
+                  class="css-l33w8x"
+                >
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Strawberry schnapps
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Orange juice
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Cranberry juice
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Club soda
+                  </span>
+                </div>
+              </div>
+            </div>
+          </article>
+          <article
+            class="chakra-linkbox css-hng3kb"
+            href="/cocktails/15106"
+          >
+            <div
+              class="css-1ggrfbi"
+            >
+              <img
+                alt="Apello"
+                class="chakra-image css-8atqhb"
+                src="https://www.thecocktaildb.com/images/media/drink/uptxtv1468876415.jpg/preview"
+              />
+              <div
+                class="css-1vae7t2"
+              >
+                <h4
+                  class="css-1u4mx17"
+                >
+                  Apello
+                </h4>
+                <div
+                  class="css-uj75d4"
+                >
+                  Drink in 
+                  Collins Glass
+                </div>
+                <div
+                  class="css-uj75d4"
+                >
+                  Alcoholic:
+                  <svg
+                    class="chakra-icon css-onkibi"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M.439,21.44a1.5,1.5,0,0,0,2.122,2.121L11.823,14.3a.25.25,0,0,1,.354,0l9.262,9.263a1.5,1.5,0,1,0,2.122-2.121L14.3,12.177a.25.25,0,0,1,0-.354l9.263-9.262A1.5,1.5,0,0,0,21.439.44L12.177,9.7a.25.25,0,0,1-.354,0L2.561.44A1.5,1.5,0,0,0,.439,2.561L9.7,11.823a.25.25,0,0,1,0,.354Z"
+                      fill="currentColor"
+                    />
+                  </svg>
+                </div>
+                <div
+                  class="css-l33w8x"
+                >
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Orange juice
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Grapefruit juice
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Apple juice
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Maraschino cherry
+                  </span>
+                </div>
+              </div>
+            </div>
+          </article>
+          <article
+            class="chakra-linkbox css-hng3kb"
+            href="/cocktails/15266"
+          >
+            <div
+              class="css-1ggrfbi"
+            >
+              <img
+                alt="Avalon"
+                class="chakra-image css-8atqhb"
+                src="https://www.thecocktaildb.com/images/media/drink/3k9qic1493068931.jpg/preview"
+              />
+              <div
+                class="css-1vae7t2"
+              >
+                <h4
+                  class="css-1u4mx17"
+                >
+                  Avalon
+                </h4>
+                <div
+                  class="css-uj75d4"
+                >
+                  Drink in 
+                  Highball glass
+                </div>
+                <div
+                  class="css-uj75d4"
+                >
+                  Alcoholic:
+                  <svg
+                    class="chakra-icon css-onkibi"
+                    focusable="false"
+                    viewBox="0 0 14 14"
+                  >
+                    <g
+                      fill="currentColor"
+                    >
+                      <polygon
+                        points="5.5 11.9993304 14 3.49933039 12.5 2 5.5 8.99933039 1.5 4.9968652 0 6.49933039"
+                      />
+                    </g>
+                  </svg>
+                </div>
+                <div
+                  class="css-l33w8x"
+                >
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Vodka
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Pisang Ambon
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Apple juice
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Lemon juice
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Lemonade
+                  </span>
+                </div>
+              </div>
+            </div>
+          </article>
+          <article
+            class="chakra-linkbox css-hng3kb"
+            href="/cocktails/17835"
+          >
+            <div
+              class="css-1ggrfbi"
+            >
+              <img
+                alt="Abilene"
+                class="chakra-image css-8atqhb"
+                src="https://www.thecocktaildb.com/images/media/drink/smb2oe1582479072.jpg/preview"
+              />
+              <div
+                class="css-1vae7t2"
+              >
+                <h4
+                  class="css-1u4mx17"
+                >
+                  Abilene
+                </h4>
+                <div
+                  class="css-uj75d4"
+                >
+                  Drink in 
+                  Highball glass
+                </div>
+                <div
+                  class="css-uj75d4"
+                >
+                  Alcoholic:
+                  <svg
+                    class="chakra-icon css-onkibi"
+                    focusable="false"
+                    viewBox="0 0 14 14"
+                  >
+                    <g
+                      fill="currentColor"
+                    >
+                      <polygon
+                        points="5.5 11.9993304 14 3.49933039 12.5 2 5.5 8.99933039 1.5 4.9968652 0 6.49933039"
+                      />
+                    </g>
+                  </svg>
+                </div>
+                <div
+                  class="css-l33w8x"
+                >
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Dark rum
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Peach nectar
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Orange juice
+                  </span>
+                </div>
+              </div>
+            </div>
+          </article>
+          <article
+            class="chakra-linkbox css-hng3kb"
+            href="/cocktails/11023"
+          >
+            <div
+              class="css-1ggrfbi"
+            >
+              <img
+                alt="Almeria"
+                class="chakra-image css-8atqhb"
+                src="https://www.thecocktaildb.com/images/media/drink/rwsyyu1483388181.jpg/preview"
+              />
+              <div
+                class="css-1vae7t2"
+              >
+                <h4
+                  class="css-1u4mx17"
+                >
+                  Almeria
+                </h4>
+                <div
+                  class="css-uj75d4"
+                >
+                  Drink in 
+                  Cocktail glass
+                </div>
+                <div
+                  class="css-uj75d4"
+                >
+                  Alcoholic:
+                  <svg
+                    class="chakra-icon css-onkibi"
+                    focusable="false"
+                    viewBox="0 0 14 14"
+                  >
+                    <g
+                      fill="currentColor"
+                    >
+                      <polygon
+                        points="5.5 11.9993304 14 3.49933039 12.5 2 5.5 8.99933039 1.5 4.9968652 0 6.49933039"
+                      />
+                    </g>
+                  </svg>
+                </div>
+                <div
+                  class="css-l33w8x"
+                >
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Dark rum
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Kahlua
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Egg white
+                  </span>
+                </div>
+              </div>
+            </div>
+          </article>
+          <article
+            class="chakra-linkbox css-hng3kb"
+            href="/cocktails/17228"
+          >
+            <div
+              class="css-1ggrfbi"
+            >
+              <img
+                alt="Addison"
+                class="chakra-image css-8atqhb"
+                src="https://www.thecocktaildb.com/images/media/drink/yzva7x1504820300.jpg/preview"
+              />
+              <div
+                class="css-1vae7t2"
+              >
+                <h4
+                  class="css-1u4mx17"
+                >
+                  Addison
+                </h4>
+                <div
+                  class="css-uj75d4"
+                >
+                  Drink in 
+                  Martini Glass
+                </div>
+                <div
+                  class="css-uj75d4"
+                >
+                  Alcoholic:
+                  <svg
+                    class="chakra-icon css-onkibi"
+                    focusable="false"
+                    viewBox="0 0 14 14"
+                  >
+                    <g
+                      fill="currentColor"
+                    >
+                      <polygon
+                        points="5.5 11.9993304 14 3.49933039 12.5 2 5.5 8.99933039 1.5 4.9968652 0 6.49933039"
+                      />
+                    </g>
+                  </svg>
+                </div>
+                <div
+                  class="css-l33w8x"
+                >
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Gin
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Vermouth
+                  </span>
+                </div>
+              </div>
+            </div>
+          </article>
+          <article
+            class="chakra-linkbox css-hng3kb"
+            href="/cocktails/17836"
+          >
+            <div
+              class="css-1ggrfbi"
+            >
+              <img
+                alt="Acapulco"
+                class="chakra-image css-8atqhb"
+                src="https://www.thecocktaildb.com/images/media/drink/il9e0r1582478841.jpg/preview"
+              />
+              <div
+                class="css-1vae7t2"
+              >
+                <h4
+                  class="css-1u4mx17"
+                >
+                  Acapulco
+                </h4>
+                <div
+                  class="css-uj75d4"
+                >
+                  Drink in 
+                  Old-fashioned glass
+                </div>
+                <div
+                  class="css-uj75d4"
+                >
+                  Alcoholic:
+                  <svg
+                    class="chakra-icon css-onkibi"
+                    focusable="false"
+                    viewBox="0 0 14 14"
+                  >
+                    <g
+                      fill="currentColor"
+                    >
+                      <polygon
+                        points="5.5 11.9993304 14 3.49933039 12.5 2 5.5 8.99933039 1.5 4.9968652 0 6.49933039"
+                      />
+                    </g>
+                  </svg>
+                </div>
+                <div
+                  class="css-l33w8x"
+                >
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Light rum
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Triple sec
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Lime juice
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Sugar
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Egg white
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Mint
+                  </span>
+                </div>
+              </div>
+            </div>
+          </article>
+          <article
+            class="chakra-linkbox css-hng3kb"
+            href="/cocktails/17840"
+          >
+            <div
+              class="css-1ggrfbi"
+            >
+              <img
+                alt="Affinity"
+                class="chakra-image css-8atqhb"
+                src="https://www.thecocktaildb.com/images/media/drink/wzdtnn1582477684.jpg/preview"
+              />
+              <div
+                class="css-1vae7t2"
+              >
+                <h4
+                  class="css-1u4mx17"
+                >
+                  Affinity
+                </h4>
+                <div
+                  class="css-uj75d4"
+                >
+                  Drink in 
+                  Cocktail glass
+                </div>
+                <div
+                  class="css-uj75d4"
+                >
+                  Alcoholic:
+                  <svg
+                    class="chakra-icon css-onkibi"
+                    focusable="false"
+                    viewBox="0 0 14 14"
+                  >
+                    <g
+                      fill="currentColor"
+                    >
+                      <polygon
+                        points="5.5 11.9993304 14 3.49933039 12.5 2 5.5 8.99933039 1.5 4.9968652 0 6.49933039"
+                      />
+                    </g>
+                  </svg>
+                </div>
+                <div
+                  class="css-l33w8x"
+                >
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Scotch
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Sweet Vermouth
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Dry Vermouth
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Orange bitters
+                  </span>
+                </div>
+              </div>
+            </div>
+          </article>
+          <article
+            class="chakra-linkbox css-hng3kb"
+            href="/cocktails/11046"
+          >
+            <div
+              class="css-1ggrfbi"
+            >
+              <img
+                alt="Applecar"
+                class="chakra-image css-8atqhb"
+                src="https://www.thecocktaildb.com/images/media/drink/sbffau1504389764.jpg/preview"
+              />
+              <div
+                class="css-1vae7t2"
+              >
+                <h4
+                  class="css-1u4mx17"
+                >
+                  Applecar
+                </h4>
+                <div
+                  class="css-uj75d4"
+                >
+                  Drink in 
+                  Cocktail glass
+                </div>
+                <div
+                  class="css-uj75d4"
+                >
+                  Alcoholic:
+                  <svg
+                    class="chakra-icon css-onkibi"
+                    focusable="false"
+                    viewBox="0 0 14 14"
+                  >
+                    <g
+                      fill="currentColor"
+                    >
+                      <polygon
+                        points="5.5 11.9993304 14 3.49933039 12.5 2 5.5 8.99933039 1.5 4.9968652 0 6.49933039"
+                      />
+                    </g>
+                  </svg>
+                </div>
+                <div
+                  class="css-l33w8x"
+                >
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Applejack
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Triple sec
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Lemon juice
+                  </span>
+                </div>
+              </div>
+            </div>
+          </article>
+          <article
+            class="chakra-linkbox css-hng3kb"
+            href="/cocktails/17180"
+          >
+            <div
+              class="css-1ggrfbi"
+            >
+              <img
+                alt="Aviation"
+                class="chakra-image css-8atqhb"
+                src="https://www.thecocktaildb.com/images/media/drink/trbplb1606855233.jpg/preview"
+              />
+              <div
+                class="css-1vae7t2"
+              >
+                <h4
+                  class="css-1u4mx17"
+                >
+                  Aviation
+                </h4>
+                <div
+                  class="css-uj75d4"
+                >
+                  Drink in 
+                  Cocktail glass
+                </div>
+                <div
+                  class="css-uj75d4"
+                >
+                  Alcoholic:
+                  <svg
+                    class="chakra-icon css-onkibi"
+                    focusable="false"
+                    viewBox="0 0 14 14"
+                  >
+                    <g
+                      fill="currentColor"
+                    >
+                      <polygon
+                        points="5.5 11.9993304 14 3.49933039 12.5 2 5.5 8.99933039 1.5 4.9968652 0 6.49933039"
+                      />
+                    </g>
+                  </svg>
+                </div>
+                <div
+                  class="css-l33w8x"
+                >
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Gin
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    lemon juice
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    maraschino liqueur
+                  </span>
+                </div>
+              </div>
+            </div>
+          </article>
+          <article
+            class="chakra-linkbox css-hng3kb"
+            href="/cocktails/11014"
+          >
+            <div
+              class="css-1ggrfbi"
+            >
+              <img
+                alt="Alexander"
+                class="chakra-image css-8atqhb"
+                src="https://www.thecocktaildb.com/images/media/drink/0clus51606772388.jpg/preview"
+              />
+              <div
+                class="css-1vae7t2"
+              >
+                <h4
+                  class="css-1u4mx17"
+                >
+                  Alexander
+                </h4>
+                <div
+                  class="css-uj75d4"
+                >
+                  Drink in 
+                  Cocktail glass
+                </div>
+                <div
+                  class="css-uj75d4"
+                >
+                  Alcoholic:
+                  <svg
+                    class="chakra-icon css-onkibi"
+                    focusable="false"
+                    viewBox="0 0 14 14"
+                  >
+                    <g
+                      fill="currentColor"
+                    >
+                      <polygon
+                        points="5.5 11.9993304 14 3.49933039 12.5 2 5.5 8.99933039 1.5 4.9968652 0 6.49933039"
+                      />
+                    </g>
+                  </svg>
+                </div>
+                <div
+                  class="css-l33w8x"
+                >
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Gin
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Creme de Cacao
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Light cream
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Nutmeg
+                  </span>
+                </div>
+              </div>
+            </div>
+          </article>
+          <article
+            class="chakra-linkbox css-hng3kb"
+            href="/cocktails/11020"
+          >
+            <div
+              class="css-1ggrfbi"
+            >
+              <img
+                alt="Algonquin"
+                class="chakra-image css-8atqhb"
+                src="https://www.thecocktaildb.com/images/media/drink/uwryxx1483387873.jpg/preview"
+              />
+              <div
+                class="css-1vae7t2"
+              >
+                <h4
+                  class="css-1u4mx17"
+                >
+                  Algonquin
+                </h4>
+                <div
+                  class="css-uj75d4"
+                >
+                  Drink in 
+                  Cocktail glass
+                </div>
+                <div
+                  class="css-uj75d4"
+                >
+                  Alcoholic:
+                  <svg
+                    class="chakra-icon css-onkibi"
+                    focusable="false"
+                    viewBox="0 0 14 14"
+                  >
+                    <g
+                      fill="currentColor"
+                    >
+                      <polygon
+                        points="5.5 11.9993304 14 3.49933039 12.5 2 5.5 8.99933039 1.5 4.9968652 0 6.49933039"
+                      />
+                    </g>
+                  </svg>
+                </div>
+                <div
+                  class="css-l33w8x"
+                >
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Blended whiskey
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Dry Vermouth
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Pineapple juice
+                  </span>
+                </div>
+              </div>
+            </div>
+          </article>
+          <article
+            class="chakra-linkbox css-hng3kb"
+            href="/cocktails/11021"
+          >
+            <div
+              class="css-1ggrfbi"
+            >
+              <img
+                alt="Allegheny"
+                class="chakra-image css-8atqhb"
+                src="https://www.thecocktaildb.com/images/media/drink/uwvyts1483387934.jpg/preview"
+              />
+              <div
+                class="css-1vae7t2"
+              >
+                <h4
+                  class="css-1u4mx17"
+                >
+                  Allegheny
+                </h4>
+                <div
+                  class="css-uj75d4"
+                >
+                  Drink in 
+                  Cocktail glass
+                </div>
+                <div
+                  class="css-uj75d4"
+                >
+                  Alcoholic:
+                  <svg
+                    class="chakra-icon css-onkibi"
+                    focusable="false"
+                    viewBox="0 0 14 14"
+                  >
+                    <g
+                      fill="currentColor"
+                    >
+                      <polygon
+                        points="5.5 11.9993304 14 3.49933039 12.5 2 5.5 8.99933039 1.5 4.9968652 0 6.49933039"
+                      />
+                    </g>
+                  </svg>
+                </div>
+                <div
+                  class="css-l33w8x"
+                >
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Dry Vermouth
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Bourbon
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Blackberry brandy
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Lemon juice
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Lemon peel
+                  </span>
+                </div>
+              </div>
+            </div>
+          </article>
+          <article
+            class="chakra-linkbox css-hng3kb"
+            href="/cocktails/11055"
+          >
+            <div
+              class="css-1ggrfbi"
+            >
+              <img
+                alt="Artillery"
+                class="chakra-image css-8atqhb"
+                src="https://www.thecocktaildb.com/images/media/drink/g1vnbe1493067747.jpg/preview"
+              />
+              <div
+                class="css-1vae7t2"
+              >
+                <h4
+                  class="css-1u4mx17"
+                >
+                  Artillery
+                </h4>
+                <div
+                  class="css-uj75d4"
+                >
+                  Drink in 
+                  Cocktail glass
+                </div>
+                <div
+                  class="css-uj75d4"
+                >
+                  Alcoholic:
+                  <svg
+                    class="chakra-icon css-onkibi"
+                    focusable="false"
+                    viewBox="0 0 14 14"
+                  >
+                    <g
+                      fill="currentColor"
+                    >
+                      <polygon
+                        points="5.5 11.9993304 14 3.49933039 12.5 2 5.5 8.99933039 1.5 4.9968652 0 6.49933039"
+                      />
+                    </g>
+                  </svg>
+                </div>
+                <div
+                  class="css-l33w8x"
+                >
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Sweet Vermouth
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Gin
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Bitters
+                  </span>
+                </div>
+              </div>
+            </div>
+          </article>
+          <article
+            class="chakra-linkbox css-hng3kb"
+            href="/cocktails/12560"
+          >
+            <div
+              class="css-1ggrfbi"
+            >
+              <img
+                alt="Afterglow"
+                class="chakra-image css-8atqhb"
+                src="https://www.thecocktaildb.com/images/media/drink/vuquyv1468876052.jpg/preview"
+              />
+              <div
+                class="css-1vae7t2"
+              >
+                <h4
+                  class="css-1u4mx17"
+                >
+                  Afterglow
+                </h4>
+                <div
+                  class="css-uj75d4"
+                >
+                  Drink in 
+                  Highball Glass
+                </div>
+                <div
+                  class="css-uj75d4"
+                >
+                  Alcoholic:
+                  <svg
+                    class="chakra-icon css-onkibi"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M.439,21.44a1.5,1.5,0,0,0,2.122,2.121L11.823,14.3a.25.25,0,0,1,.354,0l9.262,9.263a1.5,1.5,0,1,0,2.122-2.121L14.3,12.177a.25.25,0,0,1,0-.354l9.263-9.262A1.5,1.5,0,0,0,21.439.44L12.177,9.7a.25.25,0,0,1-.354,0L2.561.44A1.5,1.5,0,0,0,.439,2.561L9.7,11.823a.25.25,0,0,1,0,.354Z"
+                      fill="currentColor"
+                    />
+                  </svg>
+                </div>
+                <div
+                  class="css-l33w8x"
+                >
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Grenadine
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Orange juice
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Pineapple juice
+                  </span>
+                </div>
+              </div>
+            </div>
+          </article>
+          <article
+            class="chakra-linkbox css-hng3kb"
+            href="/cocktails/12756"
+          >
+            <div
+              class="css-1ggrfbi"
+            >
+              <img
+                alt="Autodafé"
+                class="chakra-image css-8atqhb"
+                src="https://www.thecocktaildb.com/images/media/drink/7dkf0i1487602928.jpg/preview"
+              />
+              <div
+                class="css-1vae7t2"
+              >
+                <h4
+                  class="css-1u4mx17"
+                >
+                  Autodafé
+                </h4>
+                <div
+                  class="css-uj75d4"
+                >
+                  Drink in 
+                  Highball glass
+                </div>
+                <div
+                  class="css-uj75d4"
+                >
+                  Alcoholic:
+                  <svg
+                    class="chakra-icon css-onkibi"
+                    focusable="false"
+                    viewBox="0 0 14 14"
+                  >
+                    <g
+                      fill="currentColor"
+                    >
+                      <polygon
+                        points="5.5 11.9993304 14 3.49933039 12.5 2 5.5 8.99933039 1.5 4.9968652 0 6.49933039"
+                      />
+                    </g>
+                  </svg>
+                </div>
+                <div
+                  class="css-l33w8x"
+                >
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Vodka
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Lime juice
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Soda water
+                  </span>
+                </div>
+              </div>
+            </div>
+          </article>
+          <article
+            class="chakra-linkbox css-hng3kb"
+            href="/cocktails/13162"
+          >
+            <div
+              class="css-1ggrfbi"
+            >
+              <img
+                alt="Afternoon"
+                class="chakra-image css-8atqhb"
+                src="https://www.thecocktaildb.com/images/media/drink/vyrurp1472667777.jpg/preview"
+              />
+              <div
+                class="css-1vae7t2"
+              >
+                <h4
+                  class="css-1u4mx17"
+                >
+                  Afternoon
+                </h4>
+                <div
+                  class="css-uj75d4"
+                >
+                  Drink in 
+                  Collins Glass
+                </div>
+                <div
+                  class="css-uj75d4"
+                >
+                  Alcoholic:
+                  <svg
+                    class="chakra-icon css-onkibi"
+                    focusable="false"
+                    viewBox="0 0 14 14"
+                  >
+                    <g
+                      fill="currentColor"
+                    >
+                      <polygon
+                        points="5.5 11.9993304 14 3.49933039 12.5 2 5.5 8.99933039 1.5 4.9968652 0 6.49933039"
+                      />
+                    </g>
+                  </svg>
+                </div>
+                <div
+                  class="css-l33w8x"
+                >
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Kahlua
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Baileys irish cream
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Frangelico
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Coffee
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Cream
+                  </span>
+                </div>
+              </div>
+            </div>
+          </article>
+          <article
+            class="chakra-linkbox css-hng3kb"
+            href="/cocktails/15182"
+          >
+            <div
+              class="css-1ggrfbi"
+            >
+              <img
+                alt="After sex"
+                class="chakra-image css-8atqhb"
+                src="https://www.thecocktaildb.com/images/media/drink/xrl66i1493068702.jpg/preview"
+              />
+              <div
+                class="css-1vae7t2"
+              >
+                <h4
+                  class="css-1u4mx17"
+                >
+                  After sex
+                </h4>
+                <div
+                  class="css-uj75d4"
+                >
+                  Drink in 
+                  Highball glass
+                </div>
+                <div
+                  class="css-uj75d4"
+                >
+                  Alcoholic:
+                  <svg
+                    class="chakra-icon css-onkibi"
+                    focusable="false"
+                    viewBox="0 0 14 14"
+                  >
+                    <g
+                      fill="currentColor"
+                    >
+                      <polygon
+                        points="5.5 11.9993304 14 3.49933039 12.5 2 5.5 8.99933039 1.5 4.9968652 0 6.49933039"
+                      />
+                    </g>
+                  </svg>
+                </div>
+                <div
+                  class="css-l33w8x"
+                >
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Vodka
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Creme de Banane
+                  </span>
+                  <span
+                    class="chakra-badge css-1pkrhek"
+                  >
+                    Orange juice
+                  </span>
+                </div>
+              </div>
+            </div>
+          </article>
+        </div>
+      </div>
+    </div>
+  </main>
+  <footer
+    class="footer"
+  >
+    Made by Mariaelisa Rodrigues
+  </footer>
+</div>
+`;
