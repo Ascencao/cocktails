@@ -1,4 +1,3 @@
-import NextLink from "next/link";
 import {
   LinkBox,
   SimpleGrid,
@@ -31,23 +30,20 @@ const ResultsGrid = (props: IResultsGridProps) => {
         columns={{ base: 1, sm: 1, md: 2, lg: 2, xl: 3 }}
         spacing={10}
       >
-        {results?.map((drink, i) => {
-          const {
-            idDrink,
-            strDrinkThumb: imageUrl,
-            strGlass: glass,
-            strAlcoholic: alcoholic,
-            strDrink: name,
-          } = drink;
-          return (
-            <NextLink key={`article-${i}`} href={`/cocktails/${idDrink}`} passHref>
-              <LinkBox as="article" >
-                <Card {...{ drink: { name, imageUrl, imageAlt: name, glass, alcoholic, ingredients: getIngredients(drink) } }} />
+          {results?.map((drink, i) => {
+            const {
+              idDrink,
+              strDrinkThumb: imageUrl,
+              strGlass: glass,
+              strAlcoholic: alcoholic,
+              strDrink: name,
+            } = drink;
+            return (
+              <LinkBox as="article" key={`card-drink-${i}`}>
+                <Card drink={{ name, imageUrl, imageAlt: name, glass, alcoholic, ingredients: getIngredients(drink) }} />
               </LinkBox>
-            </NextLink>
-
-          );
-        })}
+            );
+          })}
       </SimpleGrid>
     </>
   );

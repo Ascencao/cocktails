@@ -22,6 +22,6 @@ export default function handler(
 }
 const getCocktails = async (res: NextApiResponse<Data>) => {
   const { cocktailName } = res;
-  const cocktails = await fetch(`https://www.thecocktaildb.com/api/json/v1/1/search.php?s=${cocktailName}`).then(response => response.json())
+  const cocktails = await fetch(`${process.env.API_CONTENT}/search.php?s=${cocktailName}`).then(response => response.json())
   return res.status(200).json(cocktails)
 } 

@@ -1,11 +1,11 @@
+import React, { useState } from "react";
 import type { NextPage } from "next";
 import Head from "next/head";
 import { Divider } from "@chakra-ui/react";
 import styles from "../styles/Home.module.css";
-import { useState } from "react";
-import ResultsGrid from "../components/organisms/resultsGrid";
+import ResultsGrid from "../components/organisms/ResultsGrid";
 import { useRouter } from "next/router";
-import Searcher from "../components/organisms/searcher";
+import Searcher from "../components/organisms/Searcher";
 import AppLayout from "../components/templates/appLayout";
 
 const Home: NextPage = (props) => {

@@ -1,6 +1,6 @@
-import NavBar from "../molecules/navbar";
+import NavBar from "../molecules/Navbar";
 import { Container, Stack } from "@chakra-ui/react";
-import PageHeader from "../atoms/pageHeader";
+import PageHeader from "../atoms/PageHeader";
 
 export default function AppLayout(props: {
   children: any;
