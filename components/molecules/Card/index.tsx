@@ -35,7 +35,7 @@ export default function Card(props: ICardProps) {
       />
 
       <Box p="6">
-        <CardTitle name={name} />
+        <CardTitle title={name} />
         <CardInfo glass={glass} alcoholic={alcoholic} />
         <CardIngredients ingredients={ingredients} />
       </Box>

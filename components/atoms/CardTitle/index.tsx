@@ -1,18 +1,20 @@
+import { FC } from 'react';
 import {
   Box,
 } from "@chakra-ui/react";
 
-export default function CardTitle(props: { name: string }) {
-  const { name } = props;
-  return (
-    <Box
-      mt="1"
-      fontWeight="semibold"
-      as="h4"
-      lineHeight="tight"
-      isTruncated
-    >
-      {name}
-    </Box>
-  );
+interface Props {
+  title: string
 }
+
+const CardTitle: FC<Props> = ({ title }) => (
+  <Box
+    fontWeight="semibold"
+    as="h2"
+    isTruncated
+  >
+    {title}
+  </Box>
+);
+
+export default CardTitle;
