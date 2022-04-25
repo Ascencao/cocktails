@@ -1,26 +1,30 @@
 import {
   Image,
   Box,
-  LinkBox,
 } from "@chakra-ui/react";
 import CardTitle from "../../atoms/CardTitle";
 import CardInfo from "../../atoms/CardInfo";
-import CardIngredients, { IIngredientsProps } from "../../atoms/CardIngredients";
+import CardIngredients, { IngredientProps } from "../../atoms/CardIngredients";
 
 interface ICardProps {
   drink: {
-    imageUrl: string;
-    imageAlt: string;
+    image: {
+      imageUrl: string;
+      imageAlt: string;
+    };
     name: string;
-    glass: string;
-    alcoholic: string;
-    ingredients: IIngredientsProps[]
+    info: {
+      glass: string;
+      isAlcoholic: string;
+    };
+    ingredients: IngredientProps[]
   }
 }
 
+// FIXME: Change de chakra's image for next/image
 export default function Card(props: ICardProps) {
   const { drink } = props;
-  const { imageUrl, imageAlt, name, glass, alcoholic, ingredients } = drink;
+  const { image: { imageUrl, imageAlt }, name, info, ingredients } = drink;
   return (
     <Box
       maxW="sm"
@@ -28,17 +32,19 @@ export default function Card(props: ICardProps) {
       borderRadius="lg"
       overflow="hidden"
     >
+
       <Image
         src={`${imageUrl}/preview`}
         alt={imageAlt}
-        w={"100%"}
+        width={"100%"}
       />
 
       <Box p="6">
         <CardTitle title={name} />
-        <CardInfo glass={glass} alcoholic={alcoholic} />
+        <CardInfo info={info} />
         <CardIngredients ingredients={ingredients} />
       </Box>
+
     </Box>
   );
 }

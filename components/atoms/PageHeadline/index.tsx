@@ -1,15 +1,15 @@
+import { FC } from "react";
 import { Heading } from "@chakra-ui/react";
 
-interface IPageHeaderProps {
+interface Props {
   title: string;
   className: string;
 }
 
-export default function PageHeader(props: IPageHeaderProps) {
-  const { title, className } = props;
-  return (
-    <Heading as="h1" size="xl" className={className}>
-      {title}
-    </Heading>
-  );
-}
+const PageHeader: FC<Props> = ({ title, className }: Props) => (
+  <Heading as="h1" size="xl" className={className}>
+    {title}
+  </Heading>
+);
+
+export default PageHeader; 

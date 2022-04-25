@@ -8,19 +8,19 @@ import {
 } from "@chakra-ui/react";
 import { Search2Icon } from "@chakra-ui/icons";
 
-interface IEventsProps {
+interface EventsProps {
   handleClick: (event: React.MouseEvent<HTMLElement>) => void;
   handleInputChange: (event: React.ChangeEvent<HTMLElement>) => any;
   handleOnKeyPress: (event: React.KeyboardEvent<HTMLElement>) => void;
 }
 
-interface ISearcherProps {
+interface Props {
   label: string;
   value: string;
-  events: IEventsProps;
+  events: EventsProps;
 }
 
-export default function Searcher(props: ISearcherProps) {
+const Searcher = (props: Props) => {
   const { label, value, events } = props;
   const { handleClick, handleInputChange, handleOnKeyPress } = events;
 
@@ -50,3 +50,5 @@ export default function Searcher(props: ISearcherProps) {
     </>
   );
 }
+
+export default Searcher;

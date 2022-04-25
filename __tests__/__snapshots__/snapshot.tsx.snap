@@ -109,19 +109,20 @@ exports[`renders homepage unchanged 1`] = `
               <div
                 class="css-1vae7t2"
               >
-                <h4
-                  class="css-1u4mx17"
-                />
+                <h2
+                  class="css-1f7cuyp"
+                >
+                  A1
+                </h2>
                 <div
                   class="css-uj75d4"
                 >
-                  Drink in 
-                  Cocktail glass
+                  Drink in Cocktail glass
                 </div>
                 <div
                   class="css-uj75d4"
                 >
-                  Alcoholic:
+                  Alcoholic: 
                   <svg
                     class="chakra-icon css-onkibi"
                     focusable="false"
@@ -177,19 +178,20 @@ exports[`renders homepage unchanged 1`] = `
               <div
                 class="css-1vae7t2"
               >
-                <h4
-                  class="css-1u4mx17"
-                />
+                <h2
+                  class="css-1f7cuyp"
+                >
+                  ABC
+                </h2>
                 <div
                   class="css-uj75d4"
                 >
-                  Drink in 
-                  Shot glass
+                  Drink in Shot glass
                 </div>
                 <div
                   class="css-uj75d4"
                 >
-                  Alcoholic:
+                  Alcoholic: 
                   <svg
                     class="chakra-icon css-onkibi"
                     focusable="false"
@@ -240,19 +242,20 @@ exports[`renders homepage unchanged 1`] = `
               <div
                 class="css-1vae7t2"
               >
-                <h4
-                  class="css-1u4mx17"
-                />
+                <h2
+                  class="css-1f7cuyp"
+                >
+                  Ace
+                </h2>
                 <div
                   class="css-uj75d4"
                 >
-                  Drink in 
-                  Martini Glass
+                  Drink in Martini Glass
                 </div>
                 <div
                   class="css-uj75d4"
                 >
-                  Alcoholic:
+                  Alcoholic: 
                   <svg
                     class="chakra-icon css-onkibi"
                     focusable="false"
@@ -313,19 +316,20 @@ exports[`renders homepage unchanged 1`] = `
               <div
                 class="css-1vae7t2"
               >
-                <h4
-                  class="css-1u4mx17"
-                />
+                <h2
+                  class="css-1f7cuyp"
+                >
+                  Adam
+                </h2>
                 <div
                   class="css-uj75d4"
                 >
-                  Drink in 
-                  Cocktail glass
+                  Drink in Cocktail glass
                 </div>
                 <div
                   class="css-uj75d4"
                 >
-                  Alcoholic:
+                  Alcoholic: 
                   <svg
                     class="chakra-icon css-onkibi"
                     focusable="false"
@@ -376,19 +380,20 @@ exports[`renders homepage unchanged 1`] = `
               <div
                 class="css-1vae7t2"
               >
-                <h4
-                  class="css-1u4mx17"
-                />
+                <h2
+                  class="css-1f7cuyp"
+                >
+                  AT&T
+                </h2>
                 <div
                   class="css-uj75d4"
                 >
-                  Drink in 
-                  Highball Glass
+                  Drink in Highball Glass
                 </div>
                 <div
                   class="css-uj75d4"
                 >
-                  Alcoholic:
+                  Alcoholic: 
                   <svg
                     class="chakra-icon css-onkibi"
                     focusable="false"
@@ -439,19 +444,20 @@ exports[`renders homepage unchanged 1`] = `
               <div
                 class="css-1vae7t2"
               >
-                <h4
-                  class="css-1u4mx17"
-                />
+                <h2
+                  class="css-1f7cuyp"
+                >
+                  ACID
+                </h2>
                 <div
                   class="css-uj75d4"
                 >
-                  Drink in 
-                  Shot glass
+                  Drink in Shot glass
                 </div>
                 <div
                   class="css-uj75d4"
                 >
-                  Alcoholic:
+                  Alcoholic: 
                   <svg
                     class="chakra-icon css-onkibi"
                     focusable="false"
@@ -497,19 +503,20 @@ exports[`renders homepage unchanged 1`] = `
               <div
                 class="css-1vae7t2"
               >
-                <h4
-                  class="css-1u4mx17"
-                />
+                <h2
+                  class="css-1f7cuyp"
+                >
+                  A. J.
+                </h2>
                 <div
                   class="css-uj75d4"
                 >
-                  Drink in 
-                  Cocktail glass
+                  Drink in Cocktail glass
                 </div>
                 <div
                   class="css-uj75d4"
                 >
-                  Alcoholic:
+                  Alcoholic: 
                   <svg
                     class="chakra-icon css-onkibi"
                     focusable="false"
@@ -555,19 +562,20 @@ exports[`renders homepage unchanged 1`] = `
               <div
                 class="css-1vae7t2"
               >
-                <h4
-                  class="css-1u4mx17"
-                />
+                <h2
+                  class="css-1f7cuyp"
+                >
+                  Affair
+                </h2>
                 <div
                   class="css-uj75d4"
                 >
-                  Drink in 
-                  Highball glass
+                  Drink in Highball glass
                 </div>
                 <div
                   class="css-uj75d4"
                 >
-                  Alcoholic:
+                  Alcoholic: 
                   <svg
                     class="chakra-icon css-onkibi"
                     focusable="false"
@@ -623,19 +631,20 @@ exports[`renders homepage unchanged 1`] = `
               <div
                 class="css-1vae7t2"
               >
-                <h4
-                  class="css-1u4mx17"
-                />
+                <h2
+                  class="css-1f7cuyp"
+                >
+                  Apello
+                </h2>
                 <div
                   class="css-uj75d4"
                 >
-                  Drink in 
-                  Collins Glass
+                  Drink in Collins Glass
                 </div>
                 <div
                   class="css-uj75d4"
                 >
-                  Alcoholic:
+                  Alcoholic: 
                   <svg
                     class="chakra-icon css-onkibi"
                     focusable="false"
@@ -688,19 +697,20 @@ exports[`renders homepage unchanged 1`] = `
               <div
                 class="css-1vae7t2"
               >
-                <h4
-                  class="css-1u4mx17"
-                />
+                <h2
+                  class="css-1f7cuyp"
+                >
+                  Avalon
+                </h2>
                 <div
                   class="css-uj75d4"
                 >
-                  Drink in 
-                  Highball glass
+                  Drink in Highball glass
                 </div>
                 <div
                   class="css-uj75d4"
                 >
-                  Alcoholic:
+                  Alcoholic: 
                   <svg
                     class="chakra-icon css-onkibi"
                     focusable="false"
@@ -761,19 +771,20 @@ exports[`renders homepage unchanged 1`] = `
               <div
                 class="css-1vae7t2"
               >
-                <h4
-                  class="css-1u4mx17"
-                />
+                <h2
+                  class="css-1f7cuyp"
+                >
+                  Abilene
+                </h2>
                 <div
                   class="css-uj75d4"
                 >
-                  Drink in 
-                  Highball glass
+                  Drink in Highball glass
                 </div>
                 <div
                   class="css-uj75d4"
                 >
-                  Alcoholic:
+                  Alcoholic: 
                   <svg
                     class="chakra-icon css-onkibi"
                     focusable="false"
@@ -824,19 +835,20 @@ exports[`renders homepage unchanged 1`] = `
               <div
                 class="css-1vae7t2"
               >
-                <h4
-                  class="css-1u4mx17"
-                />
+                <h2
+                  class="css-1f7cuyp"
+                >
+                  Almeria
+                </h2>
                 <div
                   class="css-uj75d4"
                 >
-                  Drink in 
-                  Cocktail glass
+                  Drink in Cocktail glass
                 </div>
                 <div
                   class="css-uj75d4"
                 >
-                  Alcoholic:
+                  Alcoholic: 
                   <svg
                     class="chakra-icon css-onkibi"
                     focusable="false"
@@ -887,19 +899,20 @@ exports[`renders homepage unchanged 1`] = `
               <div
                 class="css-1vae7t2"
               >
-                <h4
-                  class="css-1u4mx17"
-                />
+                <h2
+                  class="css-1f7cuyp"
+                >
+                  Addison
+                </h2>
                 <div
                   class="css-uj75d4"
                 >
-                  Drink in 
-                  Martini Glass
+                  Drink in Martini Glass
                 </div>
                 <div
                   class="css-uj75d4"
                 >
-                  Alcoholic:
+                  Alcoholic: 
                   <svg
                     class="chakra-icon css-onkibi"
                     focusable="false"
@@ -945,19 +958,20 @@ exports[`renders homepage unchanged 1`] = `
               <div
                 class="css-1vae7t2"
               >
-                <h4
-                  class="css-1u4mx17"
-                />
+                <h2
+                  class="css-1f7cuyp"
+                >
+                  Acapulco
+                </h2>
                 <div
                   class="css-uj75d4"
                 >
-                  Drink in 
-                  Old-fashioned glass
+                  Drink in Old-fashioned glass
                 </div>
                 <div
                   class="css-uj75d4"
                 >
-                  Alcoholic:
+                  Alcoholic: 
                   <svg
                     class="chakra-icon css-onkibi"
                     focusable="false"
@@ -1023,19 +1037,20 @@ exports[`renders homepage unchanged 1`] = `
               <div
                 class="css-1vae7t2"
               >
-                <h4
-                  class="css-1u4mx17"
-                />
+                <h2
+                  class="css-1f7cuyp"
+                >
+                  Affinity
+                </h2>
                 <div
                   class="css-uj75d4"
                 >
-                  Drink in 
-                  Cocktail glass
+                  Drink in Cocktail glass
                 </div>
                 <div
                   class="css-uj75d4"
                 >
-                  Alcoholic:
+                  Alcoholic: 
                   <svg
                     class="chakra-icon css-onkibi"
                     focusable="false"
@@ -1091,19 +1106,20 @@ exports[`renders homepage unchanged 1`] = `
               <div
                 class="css-1vae7t2"
               >
-                <h4
-                  class="css-1u4mx17"
-                />
+                <h2
+                  class="css-1f7cuyp"
+                >
+                  Applecar
+                </h2>
                 <div
                   class="css-uj75d4"
                 >
-                  Drink in 
-                  Cocktail glass
+                  Drink in Cocktail glass
                 </div>
                 <div
                   class="css-uj75d4"
                 >
-                  Alcoholic:
+                  Alcoholic: 
                   <svg
                     class="chakra-icon css-onkibi"
                     focusable="false"
@@ -1154,19 +1170,20 @@ exports[`renders homepage unchanged 1`] = `
               <div
                 class="css-1vae7t2"
               >
-                <h4
-                  class="css-1u4mx17"
-                />
+                <h2
+                  class="css-1f7cuyp"
+                >
+                  Aviation
+                </h2>
                 <div
                   class="css-uj75d4"
                 >
-                  Drink in 
-                  Cocktail glass
+                  Drink in Cocktail glass
                 </div>
                 <div
                   class="css-uj75d4"
                 >
-                  Alcoholic:
+                  Alcoholic: 
                   <svg
                     class="chakra-icon css-onkibi"
                     focusable="false"
@@ -1217,19 +1234,20 @@ exports[`renders homepage unchanged 1`] = `
               <div
                 class="css-1vae7t2"
               >
-                <h4
-                  class="css-1u4mx17"
-                />
+                <h2
+                  class="css-1f7cuyp"
+                >
+                  Alexander
+                </h2>
                 <div
                   class="css-uj75d4"
                 >
-                  Drink in 
-                  Cocktail glass
+                  Drink in Cocktail glass
                 </div>
                 <div
                   class="css-uj75d4"
                 >
-                  Alcoholic:
+                  Alcoholic: 
                   <svg
                     class="chakra-icon css-onkibi"
                     focusable="false"
@@ -1285,19 +1303,20 @@ exports[`renders homepage unchanged 1`] = `
               <div
                 class="css-1vae7t2"
               >
-                <h4
-                  class="css-1u4mx17"
-                />
+                <h2
+                  class="css-1f7cuyp"
+                >
+                  Algonquin
+                </h2>
                 <div
                   class="css-uj75d4"
                 >
-                  Drink in 
-                  Cocktail glass
+                  Drink in Cocktail glass
                 </div>
                 <div
                   class="css-uj75d4"
                 >
-                  Alcoholic:
+                  Alcoholic: 
                   <svg
                     class="chakra-icon css-onkibi"
                     focusable="false"
@@ -1348,19 +1367,20 @@ exports[`renders homepage unchanged 1`] = `
               <div
                 class="css-1vae7t2"
               >
-                <h4
-                  class="css-1u4mx17"
-                />
+                <h2
+                  class="css-1f7cuyp"
+                >
+                  Allegheny
+                </h2>
                 <div
                   class="css-uj75d4"
                 >
-                  Drink in 
-                  Cocktail glass
+                  Drink in Cocktail glass
                 </div>
                 <div
                   class="css-uj75d4"
                 >
-                  Alcoholic:
+                  Alcoholic: 
                   <svg
                     class="chakra-icon css-onkibi"
                     focusable="false"
@@ -1421,19 +1441,20 @@ exports[`renders homepage unchanged 1`] = `
               <div
                 class="css-1vae7t2"
               >
-                <h4
-                  class="css-1u4mx17"
-                />
+                <h2
+                  class="css-1f7cuyp"
+                >
+                  Artillery
+                </h2>
                 <div
                   class="css-uj75d4"
                 >
-                  Drink in 
-                  Cocktail glass
+                  Drink in Cocktail glass
                 </div>
                 <div
                   class="css-uj75d4"
                 >
-                  Alcoholic:
+                  Alcoholic: 
                   <svg
                     class="chakra-icon css-onkibi"
                     focusable="false"
@@ -1484,19 +1505,20 @@ exports[`renders homepage unchanged 1`] = `
               <div
                 class="css-1vae7t2"
               >
-                <h4
-                  class="css-1u4mx17"
-                />
+                <h2
+                  class="css-1f7cuyp"
+                >
+                  Afterglow
+                </h2>
                 <div
                   class="css-uj75d4"
                 >
-                  Drink in 
-                  Highball Glass
+                  Drink in Highball Glass
                 </div>
                 <div
                   class="css-uj75d4"
                 >
-                  Alcoholic:
+                  Alcoholic: 
                   <svg
                     class="chakra-icon css-onkibi"
                     focusable="false"
@@ -1544,19 +1566,20 @@ exports[`renders homepage unchanged 1`] = `
               <div
                 class="css-1vae7t2"
               >
-                <h4
-                  class="css-1u4mx17"
-                />
+                <h2
+                  class="css-1f7cuyp"
+                >
+                  Autodafé
+                </h2>
                 <div
                   class="css-uj75d4"
                 >
-                  Drink in 
-                  Highball glass
+                  Drink in Highball glass
                 </div>
                 <div
                   class="css-uj75d4"
                 >
-                  Alcoholic:
+                  Alcoholic: 
                   <svg
                     class="chakra-icon css-onkibi"
                     focusable="false"
@@ -1607,19 +1630,20 @@ exports[`renders homepage unchanged 1`] = `
               <div
                 class="css-1vae7t2"
               >
-                <h4
-                  class="css-1u4mx17"
-                />
+                <h2
+                  class="css-1f7cuyp"
+                >
+                  Afternoon
+                </h2>
                 <div
                   class="css-uj75d4"
                 >
-                  Drink in 
-                  Collins Glass
+                  Drink in Collins Glass
                 </div>
                 <div
                   class="css-uj75d4"
                 >
-                  Alcoholic:
+                  Alcoholic: 
                   <svg
                     class="chakra-icon css-onkibi"
                     focusable="false"
@@ -1680,19 +1704,20 @@ exports[`renders homepage unchanged 1`] = `
               <div
                 class="css-1vae7t2"
               >
-                <h4
-                  class="css-1u4mx17"
-                />
+                <h2
+                  class="css-1f7cuyp"
+                >
+                  After sex
+                </h2>
                 <div
                   class="css-uj75d4"
                 >
-                  Drink in 
-                  Highball glass
+                  Drink in Highball glass
                 </div>
                 <div
                   class="css-uj75d4"
                 >
-                  Alcoholic:
+                  Alcoholic: 
                   <svg
                     class="chakra-icon css-onkibi"
                     focusable="false"

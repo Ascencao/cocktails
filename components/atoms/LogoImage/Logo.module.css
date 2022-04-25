@@ -1,6 +1,7 @@
 .logo {
   margin: auto;
-  width: 85px;
+  width: auto;
+  height: 45px;
 }
 
 .logo:hover {

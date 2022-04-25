@@ -1,5 +1,5 @@
 import LogoImage from "../../atoms/LogoImage";
-import { Flex, Grid, GridItem, Image, Text } from "@chakra-ui/react";
+import { Flex, Grid, GridItem, Text } from "@chakra-ui/react";
 
 const NavBar = () => {
   return (
